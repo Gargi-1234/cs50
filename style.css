@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+} 
+* {
+    border: solid;
+}
+.header{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
